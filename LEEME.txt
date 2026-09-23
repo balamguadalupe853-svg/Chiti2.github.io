@@ -1,0 +1,13 @@
+VERSIÓN 3 - MI BELLO ARTE
+Nuevas funciones:
+• Calendario interactivo por FECHA DE ENTREGA.
+• Toca un día para ver sus pedidos.
+• Costo total, múltiples abonos y saldo automático individual.
+• Historial de abonos por pedido.
+• Alertas de entregas de hoy y mañana.
+• Botón para activar notificaciones del navegador.
+• Logo y diseño rosa.
+
+Para actualizar GitHub reemplaza los archivos con los de este ZIP conservando sus nombres.
+
+Nota: las notificaciones programadas en una PWA estática de GitHub Pages no se pueden garantizar si el sistema mantiene la app completamente cerrada. Esta versión revisa y notifica al abrirla y mientras está activa. Para notificaciones garantizadas con la app cerrada se necesita un servicio push/backend.
